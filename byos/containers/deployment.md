@@ -44,7 +44,7 @@ az account set --subscription [subscription name]
 You can clone this repository with
 
 ```sh
-git clone https://github.com/microsoft/openhack 
+git clone https://github.com/opsgility/openhack 
 ```
 
 The deployment script expects to be run from the [`byos/containers/deploy`](./deploy) directory. Scripts use relative paths based on that expectation.
