@@ -179,7 +179,7 @@ then
 fi
 
 # Create VM
-az vm create -n internal-vm -g $teamRG --admin-username azureuser --generate-ssh-keys --public-ip-address "" --image UbuntuLTS --vnet-name vnet --subnet vm-subnet
+az vm create -n internal-vm -g $teamRG --admin-username azureuser --generate-ssh-keys --public-ip-address "" --image Canonical:UbuntuServer:16.04-LTS:latest --vnet-name vnet --subnet vm-subnet
 
 if [ $? == 0 ];
 then
