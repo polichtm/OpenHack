@@ -117,7 +117,7 @@ export AZURE_DEVOPS_EXT_PAT="<AzureDevOpsPAT>"
 Clone GitHub repo with BYOS resources.
 
 ```bash
-git clone https://github.com/microsoft/OpenHack.git
+git clone https://github.com/opsgility/OpenHack.git
 ```
 
 Go to DevOps OpenHack deployments scripts.
