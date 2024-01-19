@@ -1,0 +1,27 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sshPublicKey": {
+            "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDMLjaSj4Xik/UI6iBfY3Gl9X6GnrlAcKIb+PGyyDya37OBUmINCMg6cEohxFY08VRuvVFFyMBHAm/LOEyWY5q5HxBtfK4mF8tuZsUReRcYmEC6ARe9x7i7gZBLfjph57O4HTKSzHIVcUqvV+GPkmoPIA/+JvJYjFp/z/MZzpwzWFSzt+KMWRU6J+y8HfEdgyUIIE9a1SkyXTJ3HPSH3GNNvxxqRLe0uetGFoUGdY60eczuyXORXebuLOo06Pw3D4nNWL3vw59A+pxJ1DZYg3yVbs2H1TzjKxxBCo6qW71sjhKvdE8bOpSW5Aj+Bo55ZEeIn8N+PsXhB6T9lFVpCuaVnnwdVXmDL9BI4l1RMBSfQtRMsQFU14AlEd8+HYZt4IujqhwhkDx4TlCaLyhE4W2mrU/xnxWZNVTjYoLDpiOuK7Swu1y0UbmHcNrUuQhYflyJNIWoX5/eOiWC3RKue3kjPWay70USqDISnE+4+aPIhMxD492E4uC6tB0go3pLWo6e7JQ4gfmkS38djvYjcXa2kiUzwBE76KyhYK3sA5ymAvpy+/nQ2lTJvVjWFfneXFHEMh0Vlc8gDw/9BaCct843tYhZuA7n/btytNm/uauXUNO5n23Y6qt5fwV0oXDReQNCTanAocTe2czKFGgeL1CX9zmaLcW0MN+WSGRVs7OdGQ== aquauser"
+        },
+        "registryId": {
+            "value": "openhackuser@microsoft.com"
+        },
+        "registryPassword": {
+            "value": "CSEDem0#2829!"
+        },
+        "aquaVersion": {
+            "value": "5.3"
+        },
+        "aquaLicenseToken": {
+            "value": "gewIRdWZXWvQXWoPUtZ5D0rh-uPYfbQ-gAC1DNLZQBzMU7T06Lx93dnkisZQvUVHU01GBPZpikrmMbn1Ea57N7noodP1-HxyUp2qA2Qz_U6HTV5yqF8msJUn7mMinLAGX65RKZhxYEnO_l66FdnEUg2-VP4xUTCb5cMSAEHSD_U88XX6k3N4M49AHWPsxO116hLXz-HUphPEMGj8M1Ypcoyh2uqaO6mYEAXHxvg0h3LlwIHkNbH_WzViuEoYj4-kcHywLcv7868Ch6koYKdTjrnp11gaDT5FR-KOpl8VOZHNrMEGd19yheHk6IVGFs_XHz0nxlfUcAgfHDLEtJJrl7hk1UQ-6W_c8exCOde21IUXJChvVeDdeKifWOgJqzEs2d_R1inxfOA8a_3pbKwvU9QrypSg2QKDaAPSN7rRuhMStxQnwp-ggk0fD1FYoMp8PWTzAoIms-SmqeQRU9YSJob68Bx97b3_gEO__Le0Hu3hE9Bcd02-D71qenlMX7nk6KguTdT6C-K8xwGHmv1BKOLmWrvRNdPN4C2fWGYtPd-Erdi_3Ts06dfBB7nRACneoqJ-E36vc-aXqoT732WD6Ro7I9l-_w-JQuwyf3i2KVRIV0JuetVsIBWUuesSP9qwG1D65ADu6jzKwsPiSbTLWpjCIqaBOVJhPE62EWgaOOehsq5gEjL1TE_LRyY18GeEEzPc1IpK_6eQxSj6rR-RT4JO5fRqKVHxswcrpg9QKpHcaFZvADT3kM96Qef00ZmZEDDq1YqTLaGy2Eo8863rsUzvz--yYQ=="
+        },
+        "aquaAdminPassword": {
+            "value": "CSEDem0#2829!"
+        },
+        "aquaDbPassword": {
+            "value": "CSEDem0#2829!"
+        }
+    }
+}
